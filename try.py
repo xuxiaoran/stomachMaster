@@ -1,5 +1,7 @@
 #!/usr/in/python
 # -*- coding: utf-8 -*-
+# Author: Xiaoran Xu
+# Author: 徐晓然
 
 import random
 import itertools
@@ -84,3 +86,4 @@ if __name__ == "__main__":
 	if num > 1:
 		print "Average: $%.02f" % (total/int(num))
 		
+# Author: Xiaoran Xu
